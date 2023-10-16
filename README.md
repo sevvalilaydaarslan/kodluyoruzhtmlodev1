@@ -1,2 +1,2 @@
-# kodluyoruzodev2
-Kodluyoruz Eğitimi Ödev 2
+# kodluyoruztmlodev1
+Kodluyoruz Eğitimi HTML Ödev 1
